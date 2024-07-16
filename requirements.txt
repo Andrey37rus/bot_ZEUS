@@ -1,0 +1,2 @@
+fuzzywuzzy==0.18.0
+Win32Security==2.1.0
