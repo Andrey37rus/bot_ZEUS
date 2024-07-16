@@ -32,7 +32,7 @@
 3. Создать собственный телеграм бот 
 4. Добавить токен телеграм бота в код
 `
-token = ''
+token = 'you_token'
 bot = telebot.TeleBot(token)
 `
 5. Запустить main.py
